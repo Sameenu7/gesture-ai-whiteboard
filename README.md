@@ -1,1 +1,1 @@
-# gesture-ai-whiteboard
+# mern-project
